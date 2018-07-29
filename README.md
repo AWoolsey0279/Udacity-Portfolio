@@ -1,2 +1,2 @@
 # Udacity-Portfolio
-My portfolio projecy for Udacity.
+My portfolio project for Udacity.
